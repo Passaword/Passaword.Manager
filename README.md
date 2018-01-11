@@ -1,2 +1,2 @@
-# Passaword.Manager
+# Passaword.Vault
 Open source enterprise password manager
